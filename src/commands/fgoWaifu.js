@@ -1,6 +1,8 @@
 const fs = require('fs')
 const path = require('path')
 const servants = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/servants.json')))
+const oneStarServants = servants.filter(el => el.stars == 1)
+const twoStarServants = servants.filter(el => el.stars == 2)
 const threeStarServants = servants.filter(el => el.stars == 3)
 const fourStarServants = servants.filter(el => el.stars == 4)
 const fiveStarServants = servants.filter(el => el.stars == 5)
@@ -12,10 +14,16 @@ module.exports = function fgoWaifu(msg, args) {
 	var rarity
 
 	switch(true) {
-	case(roll < probabilities['3']): //three star
+	case(roll < probabilities['1']): //one star
+		rarity = 1
+		break
+	case(roll< probabilities['1'] + probabilities['2']): //two star
+		rarity = 2
+		break
+	case(roll < probabilities['1'] + probabilities['2'] + probabilities['3']): //three star
 		rarity = 3
 		break
-	case(roll < probabilities['3'] + probabilities['4']): //four star
+	case(roll < probabilities['1'] + probabilities['2'] + probabilities['3'] + probabilities['4']): //four star
 		rarity = 4
 		break
 	default: //roll >= probabilites['3'] + probabilities['4'] => five star
@@ -25,6 +33,8 @@ module.exports = function fgoWaifu(msg, args) {
 	var waifu
 
 	switch(rarity) {
+	case 1: waifu = randElement(oneStarServants); break
+	case 2: waifu = randElement(twoStarServants); break
 	case 3: waifu = randElement(threeStarServants); break
 	case 4: waifu = randElement(fourStarServants); break
 	case 5: waifu = randElement(fiveStarServants); break
@@ -33,7 +43,7 @@ module.exports = function fgoWaifu(msg, args) {
 
 	var waifuEmbed = {
 		title: 'Congratulations!',
-		description: `Your fgo waifu is ${waifu.name}! They have a rarity of ${waifu.stars}.`,
+		description: `${msg.author.username}'s fgo waifu is ${waifu.name}! They have a rarity of ${waifu.stars}.`,
 		image: { url: waifu.image },
 		color: 6815222
 	}
