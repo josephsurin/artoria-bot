@@ -1,32 +1,26 @@
-const fs = require('fs')
-const path = require('path')
-const servants = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/servants.json')))
-const oneStarServants = servants.filter(el => el.stars == 1)
-const twoStarServants = servants.filter(el => el.stars == 2)
-const threeStarServants = servants.filter(el => el.stars == 3)
-const fourStarServants = servants.filter(el => el.stars == 4)
-const fiveStarServants = servants.filter(el => el.stars == 5)
-const probabilities = JSON.parse(fs.readFileSync(path.join(__dirname, '../data/probabilities.json'))).fgoWaifu
+const { oneStarServants, twoStarServants, threeStarServants, fourStarServants, fiveStarServants, probabilities } = require('../data/loadedData')
+
+
 const { randElement } = require('../util/util') 
 
 module.exports = function fgoWaifu(msg, args) {
 	var roll = Math.random()
 	var rarity
-
+	var waifuProbs = probabilities.fgoWaifu
 	switch(true) {
-	case(roll < probabilities['1']): //one star
+	case(roll < waifuProbs['1']): //one star
 		rarity = 1
 		break
-	case(roll< probabilities['1'] + probabilities['2']): //two star
+	case(roll< waifuProbs['1'] + waifuProbs['2']): //two star
 		rarity = 2
 		break
-	case(roll < probabilities['1'] + probabilities['2'] + probabilities['3']): //three star
+	case(roll < waifuProbs['1'] + waifuProbs['2'] + waifuProbs['3']): //three star
 		rarity = 3
 		break
-	case(roll < probabilities['1'] + probabilities['2'] + probabilities['3'] + probabilities['4']): //four star
+	case(roll < waifuProbs['1'] + waifuProbs['2'] + waifuProbs['3'] + waifuProbs['4']): //four star
 		rarity = 4
 		break
-	default: //roll >= probabilites['3'] + probabilities['4'] => five star
+	default: //roll >= waifuProbs['3'] + waifuProbs['4'] => five star
 		rarity = 5
 	}
 

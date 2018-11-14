@@ -3,1582 +3,1800 @@
         "link": "/wiki/Mashu_Kyrielight",
         "name": "Mashu Kyrielight",
         "stars": 3,
-        "servantID": "S/1",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b0/Shielder1.png/revision/latest?cb=20170206150321"
+        "id": "S/1",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b0/Shielder1.png/revision/latest?cb=20170206150321",
+        "class": "Shielder"
     },
     {
         "link": "/wiki/Artoria_Pendragon",
         "name": "Artoria Pendragon",
         "stars": 5,
-        "servantID": "S/2",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/43/Artoria1.png/revision/latest?cb=20170206150711"
+        "id": "S/2",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/43/Artoria1.png/revision/latest?cb=20170206150711",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Artoria_Pendragon_(Alter)",
         "name": "Artoria Pendragon (Alter)",
         "stars": 4,
-        "servantID": "S/3",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/aa/Alter1.png/revision/latest?cb=20170206151011"
+        "id": "S/3",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/aa/Alter1.png/revision/latest?cb=20170206151011",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Artoria_Pendragon_(Lily)",
         "name": "Artoria Pendragon (Lily)",
         "stars": 4,
-        "servantID": "S/4",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/23/Lily1.png/revision/latest?cb=20170206151257"
+        "id": "S/4",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/23/Lily1.png/revision/latest?cb=20170206151257",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Nero_Claudius",
         "name": "Nero Claudius",
         "stars": 4,
-        "servantID": "S/5",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/71/Nero1.png/revision/latest?cb=20170206151617"
+        "id": "S/5",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/71/Nero1.png/revision/latest?cb=20170206151617",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Siegfried",
         "name": "Siegfried",
         "stars": 4,
-        "servantID": "S/6",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9e/Siegfried1.png/revision/latest?cb=20170206152037"
+        "id": "S/6",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9e/Siegfried1.png/revision/latest?cb=20170206152037",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Gaius_Julius_Caesar",
         "name": "Gaius Julius Caesar",
         "stars": 3,
-        "servantID": "S/7",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/Caesar1.png/revision/latest?cb=20161104071940"
+        "id": "S/7",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/Caesar1.png/revision/latest?cb=20161104071940",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Attila",
         "name": "Attila",
         "stars": 5,
-        "servantID": "S/8",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/c5/Attila1.png/revision/latest?cb=20170206152449"
+        "id": "S/8",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/c5/Attila1.png/revision/latest?cb=20170206152449",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Gilles_de_Rais_(Saber)",
         "name": "Gilles de Rais (Saber)",
         "stars": 3,
-        "servantID": "S/9",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ec/Giless1.png/revision/latest?cb=20170206152708"
+        "id": "S/9",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ec/Giless1.png/revision/latest?cb=20170206152708",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Chevalier_d%27Eon",
         "name": "Chevalier d'Eon",
         "stars": 4,
-        "servantID": "S/10",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/ae/Chevalier1.png/revision/latest?cb=20170206152948"
+        "id": "S/10",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/ae/Chevalier1.png/revision/latest?cb=20170206152948",
+        "class": "Saber"
     },
     {
         "link": "/wiki/EMIYA",
         "name": "EMIYA",
         "stars": 4,
-        "servantID": "S/11",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0f/Emiya1.png/revision/latest?cb=20170206153300"
+        "id": "S/11",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0f/Emiya1.png/revision/latest?cb=20170206153300",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Gilgamesh",
         "name": "Gilgamesh",
         "stars": 5,
-        "servantID": "S/12",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ee/Gilgamesh1.png/revision/latest?cb=20170207175012"
+        "id": "S/12",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ee/Gilgamesh1.png/revision/latest?cb=20170207175012",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Robin_Hood",
         "name": "Robin Hood",
         "stars": 3,
-        "servantID": "S/13",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/ae/Robin1.png/revision/latest?cb=20170207175150"
+        "id": "S/13",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/ae/Robin1.png/revision/latest?cb=20170207175150",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Atalanta",
         "name": "Atalanta",
         "stars": 4,
-        "servantID": "S/14",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/49/Atalanta1.png/revision/latest?cb=20170207175308"
+        "id": "S/14",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/49/Atalanta1.png/revision/latest?cb=20170207175308",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Euryale",
         "name": "Euryale",
         "stars": 3,
-        "servantID": "S/15",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/Euryale1.png/revision/latest?cb=20170207175427"
+        "id": "S/15",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/Euryale1.png/revision/latest?cb=20170207175427",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Arash",
         "name": "Arash",
         "stars": 1,
-        "servantID": "S/16",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cd/Arashnew1.png/revision/latest?cb=20180406083257"
+        "id": "S/16",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cd/Arashnew1.png/revision/latest?cb=20180406083257",
+        "class": "Archer"
     },
     {
         "link": "/wiki/C%C3%BA_Chulainn",
         "name": "Cú Chulainn",
         "stars": 3,
-        "servantID": "S/17",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/31/Cuchulainn1.png/revision/latest?cb=20170207175728"
+        "id": "S/17",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/31/Cuchulainn1.png/revision/latest?cb=20170207175728",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Elizabeth_B%C3%A1thory",
         "name": "Elizabeth Báthory",
         "stars": 4,
-        "servantID": "S/18",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/64/ElizabethB1.png/revision/latest?cb=20170207181302"
+        "id": "S/18",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/64/ElizabethB1.png/revision/latest?cb=20170207181302",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Musashib%C5%8D_Benkei",
         "name": "Musashibō Benkei",
         "stars": 2,
-        "servantID": "S/19",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/57/Benkeinew1.png/revision/latest?cb=20180406083540"
+        "id": "S/19",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/57/Benkeinew1.png/revision/latest?cb=20180406083540",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/C%C3%BA_Chulainn_(Prototype)",
         "name": "Cú Chulainn (Prototype)",
         "stars": 3,
-        "servantID": "S/20",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/3a/Cuprototype1.png/revision/latest?cb=20170207181451"
+        "id": "S/20",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/3a/Cuprototype1.png/revision/latest?cb=20170207181451",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Leonidas_I",
         "name": "Leonidas I",
         "stars": 2,
-        "servantID": "S/21",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/14/Leonidasnew1.png/revision/latest?cb=20180406084711"
+        "id": "S/21",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/14/Leonidasnew1.png/revision/latest?cb=20180406084711",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Romulus",
         "name": "Romulus",
         "stars": 3,
-        "servantID": "S/22",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f6/Romulus1.png/revision/latest?cb=20170207181726"
+        "id": "S/22",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f6/Romulus1.png/revision/latest?cb=20170207181726",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Medusa",
         "name": "Medusa",
         "stars": 3,
-        "servantID": "S/23",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9b/Medusa1.png/revision/latest?cb=20170208141542"
+        "id": "S/23",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9b/Medusa1.png/revision/latest?cb=20170208141542",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Georgios",
         "name": "Georgios",
         "stars": 2,
-        "servantID": "S/24",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/27/Georgenew1.png/revision/latest?cb=20180406084139"
+        "id": "S/24",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/27/Georgenew1.png/revision/latest?cb=20180406084139",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Edward_Teach",
         "name": "Edward Teach",
         "stars": 2,
-        "servantID": "S/25",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Teachnew1.png/revision/latest?cb=20180406090959"
+        "id": "S/25",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Teachnew1.png/revision/latest?cb=20180406090959",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Boudica",
         "name": "Boudica",
         "stars": 3,
-        "servantID": "S/26",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/12/Boudica1.png/revision/latest?cb=20170208141944"
+        "id": "S/26",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/12/Boudica1.png/revision/latest?cb=20170208141944",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Ushiwakamaru",
         "name": "Ushiwakamaru",
         "stars": 3,
-        "servantID": "S/27",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/03/Ushi1.png/revision/latest?cb=20170208142104"
+        "id": "S/27",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/03/Ushi1.png/revision/latest?cb=20170208142104",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Alexander",
         "name": "Alexander",
         "stars": 3,
-        "servantID": "S/28",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/3f/Alex1.png/revision/latest?cb=20170208142241"
+        "id": "S/28",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/3f/Alex1.png/revision/latest?cb=20170208142241",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Marie_Antoinette",
         "name": "Marie Antoinette",
         "stars": 4,
-        "servantID": "S/29",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5e/Marie1.png/revision/latest?cb=20170208142354"
+        "id": "S/29",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5e/Marie1.png/revision/latest?cb=20170208142354",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Martha",
         "name": "Martha",
         "stars": 4,
-        "servantID": "S/30",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/a3/Martha1.png/revision/latest?cb=20170208142646"
+        "id": "S/30",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/a3/Martha1.png/revision/latest?cb=20170208142646",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Medea",
         "name": "Medea",
         "stars": 3,
-        "servantID": "S/31",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7b/Medea1.png/revision/latest?cb=20170208150547"
+        "id": "S/31",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7b/Medea1.png/revision/latest?cb=20170208150547",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Gilles_de_Rais",
         "name": "Gilles de Rais",
         "stars": 3,
-        "servantID": "S/32",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/DeRais1.png/revision/latest?cb=20170208150741"
+        "id": "S/32",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/DeRais1.png/revision/latest?cb=20170208150741",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Hans_Christian_Andersen",
         "name": "Hans Christian Andersen",
         "stars": 2,
-        "servantID": "S/33",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2f/Hansnew1.png/revision/latest?cb=20180406084324"
+        "id": "S/33",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2f/Hansnew1.png/revision/latest?cb=20180406084324",
+        "class": "Caster"
     },
     {
         "link": "/wiki/William_Shakespeare",
         "name": "William Shakespeare",
         "stars": 2,
-        "servantID": "S/34",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/61/Shakespearnew1.png/revision/latest?cb=20180406090500"
+        "id": "S/34",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/61/Shakespearnew1.png/revision/latest?cb=20180406090500",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Mephistopheles",
         "name": "Mephistopheles",
         "stars": 3,
-        "servantID": "S/35",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f5/Meph1.png/revision/latest?cb=20170208152631"
+        "id": "S/35",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f5/Meph1.png/revision/latest?cb=20170208152631",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Wolfgang_Amadeus_Mozart",
         "name": "Wolfgang Amadeus Mozart",
         "stars": 1,
-        "servantID": "S/36",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f0/Mozartnew1.png/revision/latest?cb=20180406085732"
+        "id": "S/36",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f0/Mozartnew1.png/revision/latest?cb=20180406085732",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Zhuge_Liang_(Lord_El-Melloi_II)",
         "name": "Zhuge Liang (Lord El-Melloi II)",
         "stars": 5,
-        "servantID": "S/37",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b7/Zhuge1.png/revision/latest?cb=20170208154109"
+        "id": "S/37",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b7/Zhuge1.png/revision/latest?cb=20170208154109",
+        "class": "Caster"
     },
     {
         "link": "/wiki/C%C3%BA_Chulainn_(Caster)",
         "name": "Cú Chulainn (Caster)",
         "stars": 3,
-        "servantID": "S/38",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/Cucaster1.png/revision/latest?cb=20170208160630"
+        "id": "S/38",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/Cucaster1.png/revision/latest?cb=20170208160630",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Sasaki_Kojir%C5%8D",
         "name": "Sasaki Kojirō",
         "stars": 1,
-        "servantID": "S/39",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/46/Kojironew1.png/revision/latest?cb=20180406084507"
+        "id": "S/39",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/46/Kojironew1.png/revision/latest?cb=20180406084507",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Cursed_Arm_Hassan",
         "name": "Cursed Arm Hassan",
         "stars": 2,
-        "servantID": "S/40",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b7/Fappynew1.png/revision/latest?cb=20180406084005"
+        "id": "S/40",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b7/Fappynew1.png/revision/latest?cb=20180406084005",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Stheno",
         "name": "Stheno",
         "stars": 4,
-        "servantID": "S/41",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/24/Stheno1.png/revision/latest?cb=20170208163243"
+        "id": "S/41",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/24/Stheno1.png/revision/latest?cb=20170208163243",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Jing_Ke",
         "name": "Jing Ke",
         "stars": 3,
-        "servantID": "S/42",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Jingke1.png/revision/latest?cb=20170208163530"
+        "id": "S/42",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Jingke1.png/revision/latest?cb=20170208163530",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Charles-Henri_Sanson",
         "name": "Charles-Henri Sanson",
         "stars": 2,
-        "servantID": "S/43",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/16/Sansonnew1.png/revision/latest?cb=20180406090257"
+        "id": "S/43",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/16/Sansonnew1.png/revision/latest?cb=20180406090257",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Phantom_of_the_Opera",
         "name": "Phantom of the Opera",
         "stars": 2,
-        "servantID": "S/44",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/66/PhantomOperaNewStage1.png/revision/latest?cb=20180405180252"
+        "id": "S/44",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/66/PhantomOperaNewStage1.png/revision/latest?cb=20180405180252",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Mata_Hari",
         "name": "Mata Hari",
         "stars": 1,
-        "servantID": "S/45",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5c/Mataharinew1.png/revision/latest?cb=20180406084847"
+        "id": "S/45",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5c/Mataharinew1.png/revision/latest?cb=20180406084847",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Carmilla",
         "name": "Carmilla",
         "stars": 4,
-        "servantID": "S/46",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/61/Carmilla1.png/revision/latest?cb=20170208164710"
+        "id": "S/46",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/61/Carmilla1.png/revision/latest?cb=20170208164710",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Heracles",
         "name": "Heracles",
         "stars": 4,
-        "servantID": "S/47",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f2/Herc1.png/revision/latest?cb=20170208165217"
+        "id": "S/47",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f2/Herc1.png/revision/latest?cb=20170208165217",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Lancelot",
         "name": "Lancelot",
         "stars": 4,
-        "servantID": "S/48",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2c/Lancelot1.png/revision/latest?cb=20170208165850"
+        "id": "S/48",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2c/Lancelot1.png/revision/latest?cb=20170208165850",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Lu_Bu_Fengxian",
         "name": "Lu Bu Fengxian",
         "stars": 3,
-        "servantID": "S/49",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/LuBu1.png/revision/latest?cb=20170208170153"
+        "id": "S/49",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/LuBu1.png/revision/latest?cb=20170208170153",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Spartacus",
         "name": "Spartacus",
         "stars": 1,
-        "servantID": "S/50",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b6/Spartacusnew1.png/revision/latest?cb=20180406090819"
+        "id": "S/50",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b6/Spartacusnew1.png/revision/latest?cb=20180406090819",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Sakata_Kintoki",
         "name": "Sakata Kintoki",
         "stars": 5,
-        "servantID": "S/51",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/ff/Sakata1.png/revision/latest?cb=20170208170802"
+        "id": "S/51",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/ff/Sakata1.png/revision/latest?cb=20170208170802",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Vlad_III",
         "name": "Vlad III",
         "stars": 5,
-        "servantID": "S/52",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/11/Vlad1.png/revision/latest?cb=20170208171400"
+        "id": "S/52",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/11/Vlad1.png/revision/latest?cb=20170208171400",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Asterios",
         "name": "Asterios",
         "stars": 1,
-        "servantID": "S/53",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/a6/Asteriosnew1.png/revision/latest?cb=20180406083110"
+        "id": "S/53",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/a6/Asteriosnew1.png/revision/latest?cb=20180406083110",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Caligula",
         "name": "Caligula",
         "stars": 2,
-        "servantID": "S/54",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f9/Caligulanew1.png/revision/latest?cb=20180406083703"
+        "id": "S/54",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f9/Caligulanew1.png/revision/latest?cb=20180406083703",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Darius_III",
         "name": "Darius III",
         "stars": 3,
-        "servantID": "S/55",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/34/Darius1.png/revision/latest?cb=20170208175341"
+        "id": "S/55",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/34/Darius1.png/revision/latest?cb=20170208175341",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Kiyohime",
         "name": "Kiyohime",
         "stars": 3,
-        "servantID": "S/56",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Kiyohime1.png/revision/latest?cb=20170208180109"
+        "id": "S/56",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Kiyohime1.png/revision/latest?cb=20170208180109",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Eric_Bloodaxe",
         "name": "Eric Bloodaxe",
         "stars": 2,
-        "servantID": "S/57",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/86/Ericnew1.png/revision/latest?cb=20180406083835"
+        "id": "S/57",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/86/Ericnew1.png/revision/latest?cb=20180406083835",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Tamamo_Cat",
         "name": "Tamamo Cat",
         "stars": 4,
-        "servantID": "S/58",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/fd/Tamamo01.png/revision/latest?cb=20170208180452"
+        "id": "S/58",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/fd/Tamamo01.png/revision/latest?cb=20170208180452",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Jeanne_d%27Arc",
         "name": "Jeanne d'Arc",
         "stars": 5,
-        "servantID": "S/59",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/56/Jeanne1.png/revision/latest?cb=20170208180646"
+        "id": "S/59",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/56/Jeanne1.png/revision/latest?cb=20170208180646",
+        "class": "Ruler"
     },
     {
         "link": "/wiki/Orion",
         "name": "Orion",
         "stars": 5,
-        "servantID": "S/60",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/6b/Artemis1.png/revision/latest?cb=20170209155032"
+        "id": "S/60",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/6b/Artemis1.png/revision/latest?cb=20170209155032",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Elizabeth_B%C3%A1thory_(Halloween)",
         "name": "Elizabeth Báthory (Halloween)",
         "stars": 4,
-        "servantID": "S/61",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e2/Halloweliz.png/revision/latest?cb=20151021190217"
+        "id": "S/61",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e2/Halloweliz.png/revision/latest?cb=20151021190217",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Tamamo_no_Mae",
         "name": "Tamamo no Mae",
         "stars": 5,
-        "servantID": "S/62",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/72/Tamamocaster.png/revision/latest?cb=20151021214450"
+        "id": "S/62",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/72/Tamamocaster.png/revision/latest?cb=20151021214450",
+        "class": "Caster"
     },
     {
         "link": "/wiki/David",
         "name": "David",
         "stars": 3,
-        "servantID": "S/63",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/4e/David1.png/revision/latest?cb=20170209155234"
+        "id": "S/63",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/4e/David1.png/revision/latest?cb=20170209155234",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Hector",
         "name": "Hector",
         "stars": 3,
-        "servantID": "S/64",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f9/Hector1.png/revision/latest?cb=20151105190845"
+        "id": "S/64",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f9/Hector1.png/revision/latest?cb=20151105190845",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Francis_Drake",
         "name": "Francis Drake",
         "stars": 5,
-        "servantID": "S/65",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/57/Drake1.png/revision/latest?cb=20151105191741"
+        "id": "S/65",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/57/Drake1.png/revision/latest?cb=20151105191741",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Anne_Bonny_%26_Mary_Read",
         "name": "Anne Bonny & Mary Read",
         "stars": 4,
-        "servantID": "S/66",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/59/Anne1.png/revision/latest?cb=20151105191740"
+        "id": "S/66",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/59/Anne1.png/revision/latest?cb=20151105191740",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Medea_(Lily)",
         "name": "Medea (Lily)",
         "stars": 4,
-        "servantID": "S/67",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8d/Medealily1.png/revision/latest?cb=20151105191738"
+        "id": "S/67",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8d/Medealily1.png/revision/latest?cb=20151105191738",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Okita_S%C5%8Dji",
         "name": "Okita Sōji",
         "stars": 5,
-        "servantID": "S/68",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/3a/Okita_Stage_1.png/revision/latest?cb=20180401084031"
+        "id": "S/68",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/3a/Okita_Stage_1.png/revision/latest?cb=20180401084031",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Oda_Nobunaga",
         "name": "Oda Nobunaga",
         "stars": 4,
-        "servantID": "S/69",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/94/Oda1-3.png/revision/latest?cb=20160808080541"
+        "id": "S/69",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/94/Oda1-3.png/revision/latest?cb=20160808080541",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Sc%C3%A1thach",
         "name": "Scáthach",
         "stars": 5,
-        "servantID": "S/70",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e0/Scathach1.png/revision/latest?cb=20151210053927"
+        "id": "S/70",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e0/Scathach1.png/revision/latest?cb=20151210053927",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Diarmuid_Ua_Duibhne",
         "name": "Diarmuid Ua Duibhne",
         "stars": 3,
-        "servantID": "S/71",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/69/Diarmuid1.png/revision/latest?cb=20151210053505"
+        "id": "S/71",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/69/Diarmuid1.png/revision/latest?cb=20151210053505",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Fergus_mac_R%C3%B3ich",
         "name": "Fergus mac Róich",
         "stars": 3,
-        "servantID": "S/72",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7b/Fergus1.png/revision/latest?cb=20151210053504"
+        "id": "S/72",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7b/Fergus1.png/revision/latest?cb=20151210053504",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Artoria_Pendragon_(Santa_Alter)",
         "name": "Artoria Pendragon (Santa Alter)",
         "stars": 4,
-        "servantID": "S/73",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d4/Santaalter1.png/revision/latest?cb=20151216015653"
+        "id": "S/73",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d4/Santaalter1.png/revision/latest?cb=20151216015653",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Nursery_Rhyme",
         "name": "Nursery Rhyme",
         "stars": 4,
-        "servantID": "S/74",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0e/Rhyme1.png/revision/latest?cb=20151216015839"
+        "id": "S/74",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0e/Rhyme1.png/revision/latest?cb=20151216015839",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Jack_the_Ripper",
         "name": "Jack the Ripper",
         "stars": 5,
-        "servantID": "S/75",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/6e/Jack1.png/revision/latest?cb=20151216015840"
+        "id": "S/75",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/6e/Jack1.png/revision/latest?cb=20151216015840",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Mordred",
         "name": "Mordred",
         "stars": 5,
-        "servantID": "S/76",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8f/Mordred1.png/revision/latest?cb=20151228211252"
+        "id": "S/76",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8f/Mordred1.png/revision/latest?cb=20151228211252",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Nikola_Tesla",
         "name": "Nikola Tesla",
         "stars": 5,
-        "servantID": "S/77",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9f/Tesla1.png/revision/latest?cb=20151228211001"
+        "id": "S/77",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9f/Tesla1.png/revision/latest?cb=20151228211001",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Artoria_Pendragon_(Lancer_Alter)",
         "name": "Artoria Pendragon (Lancer Alter)",
         "stars": 4,
-        "servantID": "S/78",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e0/Alterlancer1.png/revision/latest?cb=20151228211742"
+        "id": "S/78",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e0/Alterlancer1.png/revision/latest?cb=20151228211742",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Paracelsus_von_Hohenheim",
         "name": "Paracelsus von Hohenheim",
         "stars": 3,
-        "servantID": "S/79",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/Paracelcus1.png/revision/latest?cb=20151228213414"
+        "id": "S/79",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/Paracelcus1.png/revision/latest?cb=20151228213414",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Charles_Babbage",
         "name": "Charles Babbage",
         "stars": 3,
-        "servantID": "S/80",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f9/Babbage1.png/revision/latest?cb=20151228212323"
-    },
-    {
-        "link": "/wiki/Henry_Jekyll_%26_Hyde",
-        "name": "Henry Jekyll & Hyde",
-        "stars": 3,
-        "servantID": "S/81",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e3/Jekyll1.png/revision/latest?cb=20151228212620"
+        "id": "S/80",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f9/Babbage1.png/revision/latest?cb=20151228212323",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Henry_Jekyll_%26_Hyde",
         "name": "Hyde",
         "stars": 3,
-        "servantID": "S/81",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e3/Jekyll1.png/revision/latest?cb=20151228212620"
+        "id": "S/81",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e3/Jekyll1.png/revision/latest?cb=20151228212620",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Frankenstein",
         "name": "Frankenstein",
         "stars": 4,
-        "servantID": "S/82",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/32/Frankenstein1.png/revision/latest?cb=20151228213043"
+        "id": "S/82",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/32/Frankenstein1.png/revision/latest?cb=20151228213043",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Solomon",
         "name": "Solomon",
         "stars": 5,
-        "servantID": "S/83",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/78/Solomon1.png/revision/latest?cb=20180427151527"
+        "id": "S/83",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/78/Solomon1.png/revision/latest?cb=20180427151527",
+        "class": "Grand Caster"
     },
     {
         "link": "/wiki/Arjuna",
         "name": "Arjuna",
         "stars": 5,
-        "servantID": "S/84",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/82/Arjuna1.png/revision/latest?cb=20151230150758"
+        "id": "S/84",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/82/Arjuna1.png/revision/latest?cb=20151230150758",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Karna",
         "name": "Karna",
         "stars": 5,
-        "servantID": "S/85",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/Karna1.png/revision/latest?cb=20151230150953"
+        "id": "S/85",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/Karna1.png/revision/latest?cb=20151230150953",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Mysterious_Heroine_X",
         "name": "Mysterious Heroine X",
         "stars": 5,
-        "servantID": "S/86",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b2/HeroineX1.png/revision/latest?cb=20160120115258"
+        "id": "S/86",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b2/HeroineX1.png/revision/latest?cb=20160120115258",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Fionn_mac_Cumhaill",
         "name": "Fionn mac Cumhaill",
         "stars": 4,
-        "servantID": "S/87",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cf/Finn1.png/revision/latest?cb=20160203163904"
+        "id": "S/87",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cf/Finn1.png/revision/latest?cb=20160203163904",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Brynhildr",
         "name": "Brynhildr",
         "stars": 5,
-        "servantID": "S/88",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/Brynhildr1.png/revision/latest?cb=20160203163856"
+        "id": "S/88",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/Brynhildr1.png/revision/latest?cb=20160203163856",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Beowulf",
         "name": "Beowulf",
         "stars": 4,
-        "servantID": "S/89",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2e/Beowulf1.png/revision/latest?cb=20160203163900"
+        "id": "S/89",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2e/Beowulf1.png/revision/latest?cb=20160203163900",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Nero_Claudius_(Bride)",
         "name": "Nero Claudius (Bride)",
         "stars": 5,
-        "servantID": "S/90",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/da/Nerobride1.png/revision/latest?cb=20160210075206"
+        "id": "S/90",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/da/Nerobride1.png/revision/latest?cb=20160210075206",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Ry%C5%8Dgi_Shiki_(Saber)",
         "name": "Ryōgi Shiki (Saber)",
         "stars": 5,
-        "servantID": "S/91",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d0/Shikisaber1.png/revision/latest?cb=20160311015646"
+        "id": "S/91",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d0/Shikisaber1.png/revision/latest?cb=20160311015646",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Ry%C5%8Dgi_Shiki_(Assassin)",
         "name": "Ryōgi Shiki (Assassin)",
         "stars": 4,
-        "servantID": "S/92",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/62/Shikiassassin1.png/revision/latest?cb=20160311015500"
+        "id": "S/92",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/62/Shikiassassin1.png/revision/latest?cb=20160311015500",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Amakusa_Shir%C5%8D",
         "name": "Amakusa Shirō",
         "stars": 5,
-        "servantID": "S/93",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5e/Ashirou1.png/revision/latest?cb=20160309054321"
+        "id": "S/93",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5e/Ashirou1.png/revision/latest?cb=20160309054321",
+        "class": "Ruler"
     },
     {
         "link": "/wiki/Astolfo",
         "name": "Astolfo",
         "stars": 4,
-        "servantID": "S/94",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/3c/Astolfo1.png/revision/latest?cb=20160309054320"
+        "id": "S/94",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/3c/Astolfo1.png/revision/latest?cb=20160309054320",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Kid_Gil",
         "name": "Kid Gil",
         "stars": 3,
-        "servantID": "S/95",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/da/Kogil1.png/revision/latest?cb=20160309054319"
+        "id": "S/95",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/da/Kogil1.png/revision/latest?cb=20160309054319",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Edmond_Dant%C3%A8s",
         "name": "Edmond Dantès",
         "stars": 5,
-        "servantID": "S/96",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/ab/Edmond1.png/revision/latest?cb=20160316190933"
+        "id": "S/96",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/ab/Edmond1.png/revision/latest?cb=20160316190933",
+        "class": "Avenger"
     },
     {
         "link": "/wiki/Nightingale",
         "name": "Nightingale",
         "stars": 5,
-        "servantID": "S/97",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8c/Nightingale1.png/revision/latest?cb=20160331034643"
+        "id": "S/97",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8c/Nightingale1.png/revision/latest?cb=20160331034643",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/C%C3%BA_Chulainn_(Alter)",
         "name": "Cú Chulainn (Alter)",
         "stars": 5,
-        "servantID": "S/98",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/82/CuAlter1.png/revision/latest?cb=20160331035418"
+        "id": "S/98",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/82/CuAlter1.png/revision/latest?cb=20160331035418",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Medb",
         "name": "Medb",
         "stars": 5,
-        "servantID": "S/99",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b1/Medb1.png/revision/latest?cb=20160331040019"
+        "id": "S/99",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b1/Medb1.png/revision/latest?cb=20160331040019",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Helena_Blavatsky",
         "name": "Helena Blavatsky",
         "stars": 4,
-        "servantID": "S/100",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ea/Helena1.png/revision/latest?cb=20160331034911"
+        "id": "S/100",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ea/Helena1.png/revision/latest?cb=20160331034911",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Rama",
         "name": "Rama",
         "stars": 4,
-        "servantID": "S/101",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/05/Rama1.png/revision/latest?cb=20160331035700"
+        "id": "S/101",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/05/Rama1.png/revision/latest?cb=20160331035700",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Li_Shuwen_(Lancer)",
         "name": "Li Shuwen (Lancer)",
         "stars": 4,
-        "servantID": "S/102",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cd/Shuwen1.png/revision/latest?cb=20160331040017"
+        "id": "S/102",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cd/Shuwen1.png/revision/latest?cb=20160331040017",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Thomas_Edison",
         "name": "Thomas Edison",
         "stars": 4,
-        "servantID": "S/103",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8f/Edison1.png/revision/latest?cb=20160331035419"
+        "id": "S/103",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8f/Edison1.png/revision/latest?cb=20160331035419",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Geronimo",
         "name": "Geronimo",
         "stars": 3,
-        "servantID": "S/104",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7c/Geronimo1.png/revision/latest?cb=20160331035733"
+        "id": "S/104",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7c/Geronimo1.png/revision/latest?cb=20160331035733",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Billy_the_Kid",
         "name": "Billy the Kid",
         "stars": 3,
-        "servantID": "S/105",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5d/Billy1.png/revision/latest?cb=20160331035716"
+        "id": "S/105",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5d/Billy1.png/revision/latest?cb=20160331035716",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Jeanne_d%27Arc_(Alter)",
         "name": "Jeanne d'Arc (Alter)",
         "stars": 5,
-        "servantID": "S/106",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/98/JeanneAlter1.png/revision/latest?cb=20160411111159"
+        "id": "S/106",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/98/JeanneAlter1.png/revision/latest?cb=20160411111159",
+        "class": "Avenger"
     },
     {
         "link": "/wiki/Angra_Mainyu",
         "name": "Angra Mainyu",
         "stars": 1,
-        "servantID": "S/107",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/aa/Angra1.png/revision/latest?cb=20161126152050"
+        "id": "S/107",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/aa/Angra1.png/revision/latest?cb=20161126152050",
+        "class": "Avenger"
     },
     {
         "link": "/wiki/Iskandar",
         "name": "Iskandar",
         "stars": 5,
-        "servantID": "S/108",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/72/Iskandar1.png/revision/latest?cb=20170203174201"
+        "id": "S/108",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/72/Iskandar1.png/revision/latest?cb=20170203174201",
+        "class": "Rider"
     },
     {
         "link": "/wiki/EMIYA_(Assassin)",
         "name": "EMIYA (Assassin)",
         "stars": 4,
-        "servantID": "S/109",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9f/Kiritsugu1.png/revision/latest?cb=20170203175909"
+        "id": "S/109",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9f/Kiritsugu1.png/revision/latest?cb=20170203175909",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Hundred-Faced_Hassan",
         "name": "Hundred-Faced Hassan",
         "stars": 3,
-        "servantID": "S/110",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/c6/HundredHassan1.png/revision/latest?cb=20170203175359"
+        "id": "S/110",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/c6/HundredHassan1.png/revision/latest?cb=20170203175359",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Irisviel_(Dress_of_Heaven)",
         "name": "Irisviel (Dress of Heaven)",
         "stars": 4,
-        "servantID": "S/111",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/87/Iri1-3.png/revision/latest?cb=20170203180154"
+        "id": "S/111",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/87/Iri1-3.png/revision/latest?cb=20170203180154",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Shuten_D%C5%8Dji",
         "name": "Shuten Dōji",
         "stars": 5,
-        "servantID": "S/112",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f6/Shuten1.png/revision/latest?cb=20170203180520"
+        "id": "S/112",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f6/Shuten1.png/revision/latest?cb=20170203180520",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Xuanzang_Sanzang",
         "name": "Xuanzang Sanzang",
         "stars": 5,
-        "servantID": "S/113",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/Xuanzang1.png/revision/latest?cb=20170203180848"
+        "id": "S/113",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/Xuanzang1.png/revision/latest?cb=20170203180848",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Minamoto_no_Raik%C5%8D",
         "name": "Minamoto no Raikō",
         "stars": 5,
-        "servantID": "S/114",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5a/Yorimitsu1.png/revision/latest?cb=20170204130936"
+        "id": "S/114",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5a/Yorimitsu1.png/revision/latest?cb=20170204130936",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Sakata_Kintoki_(Rider)",
         "name": "Sakata Kintoki (Rider)",
         "stars": 4,
-        "servantID": "S/115",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/Kintoki1-3.png/revision/latest?cb=20170204131111"
+        "id": "S/115",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/Kintoki1-3.png/revision/latest?cb=20170204131111",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Ibaraki_D%C5%8Dji",
         "name": "Ibaraki Dōji",
         "stars": 4,
-        "servantID": "S/116",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/09/Ibaraki1.png/revision/latest?cb=20170204131326"
+        "id": "S/116",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/09/Ibaraki1.png/revision/latest?cb=20170204131326",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/F%C5%ABma_Kotar%C5%8D",
         "name": "Fūma Kotarō",
         "stars": 3,
-        "servantID": "S/117",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/68/Kotarou1.png/revision/latest?cb=20170204130346"
+        "id": "S/117",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/68/Kotarou1.png/revision/latest?cb=20170204130346",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Ozymandias",
         "name": "Ozymandias",
         "stars": 5,
-        "servantID": "S/118",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/55/Ozyman1.png/revision/latest?cb=20160725180350"
+        "id": "S/118",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/55/Ozyman1.png/revision/latest?cb=20160725180350",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Artoria_Pendragon_(Lancer)",
         "name": "Artoria Pendragon (Lancer)",
         "stars": 5,
-        "servantID": "S/119",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/41/Lanceria1.png/revision/latest?cb=20160725173343"
+        "id": "S/119",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/41/Lanceria1.png/revision/latest?cb=20160725173343",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Nitocris",
         "name": "Nitocris",
         "stars": 4,
-        "servantID": "S/120",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/ce/NitocrisHD1.png/revision/latest?cb=20171206155522"
+        "id": "S/120",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/ce/NitocrisHD1.png/revision/latest?cb=20171206155522",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Lancelot_(Saber)",
         "name": "Lancelot (Saber)",
         "stars": 4,
-        "servantID": "S/121",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/09/LancelotS1.png/revision/latest?cb=20160725145213"
+        "id": "S/121",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/09/LancelotS1.png/revision/latest?cb=20160725145213",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Tristan",
         "name": "Tristan",
         "stars": 4,
-        "servantID": "S/122",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/ce/Tristan1.png/revision/latest?cb=20160725154405"
+        "id": "S/122",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/ce/Tristan1.png/revision/latest?cb=20160725154405",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Gawain",
         "name": "Gawain",
         "stars": 4,
-        "servantID": "S/123",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/53/Gawain1.png/revision/latest?cb=20160731053049"
+        "id": "S/123",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/53/Gawain1.png/revision/latest?cb=20160731053049",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Hassan_of_Serenity",
         "name": "Hassan of Serenity",
         "stars": 3,
-        "servantID": "S/124",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/ba/Hofserenity1.png/revision/latest?cb=20160725145652"
+        "id": "S/124",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/ba/Hofserenity1.png/revision/latest?cb=20160725145652",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Tawara_T%C5%8Dta",
         "name": "Tawara Tōta",
         "stars": 3,
-        "servantID": "S/125",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/00/Tawara1.png/revision/latest?cb=20160725152230"
+        "id": "S/125",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/00/Tawara1.png/revision/latest?cb=20160725152230",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Bedivere",
         "name": "Bedivere",
         "stars": 3,
-        "servantID": "S/126",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/88/Bedivere1.png/revision/latest?cb=20170209155609"
+        "id": "S/126",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/88/Bedivere1.png/revision/latest?cb=20170209155609",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Leonardo_Da_Vinci",
         "name": "Leonardo Da Vinci",
         "stars": 5,
-        "servantID": "S/127",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/99/Davinci1.png/revision/latest?cb=20160729200954"
+        "id": "S/127",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/99/Davinci1.png/revision/latest?cb=20160729200954",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Tamamo_no_Mae_(Lancer)",
         "name": "Tamamo no Mae (Lancer)",
         "stars": 5,
-        "servantID": "S/128",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ef/TamamoLancer1.png/revision/latest?cb=20180224143850"
+        "id": "S/128",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ef/TamamoLancer1.png/revision/latest?cb=20180224143850",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Artoria_Pendragon_(Archer)",
         "name": "Artoria Pendragon (Archer)",
         "stars": 5,
-        "servantID": "S/129",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f5/Artoria_Archer_1.png/revision/latest?cb=20180224143221"
+        "id": "S/129",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f5/Artoria_Archer_1.png/revision/latest?cb=20180224143221",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Marie_Antoinette_(Caster)",
         "name": "Marie Antoinette (Caster)",
         "stars": 4,
-        "servantID": "S/130",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d4/Marie_Caster_1.png/revision/latest?cb=20161015082015"
+        "id": "S/130",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d4/Marie_Caster_1.png/revision/latest?cb=20161015082015",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Anne_Bonny_%26_Mary_Read_(Archer)",
         "name": "Anne Bonny & Mary Read (Archer)",
         "stars": 4,
-        "servantID": "S/131",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/37/AnneArcher1.png/revision/latest?cb=20180224143631"
+        "id": "S/131",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/37/AnneArcher1.png/revision/latest?cb=20180224143631",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Mordred_(Rider)",
         "name": "Mordred (Rider)",
         "stars": 4,
-        "servantID": "S/132",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/a2/MordredRider1.png/revision/latest?cb=20180224143432"
+        "id": "S/132",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/a2/MordredRider1.png/revision/latest?cb=20180224143432",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Sc%C3%A1thach_(Assassin)",
         "name": "Scáthach (Assassin)",
         "stars": 4,
-        "servantID": "S/133",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ea/ScathachAssassinArt.png/revision/latest?cb=20180224144222"
+        "id": "S/133",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ea/ScathachAssassinArt.png/revision/latest?cb=20180224144222",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Kiyohime_(Lancer)",
         "name": "Kiyohime (Lancer)",
         "stars": 4,
-        "servantID": "S/134",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/eb/KiyohimeLancer1.png/revision/latest?cb=20180224144002"
+        "id": "S/134",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/eb/KiyohimeLancer1.png/revision/latest?cb=20180224144002",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Martha_(Ruler)",
         "name": "Martha (Ruler)",
         "stars": 4,
-        "servantID": "S/135",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/aa/Smartharuler1.png/revision/latest?cb=20161017025252"
+        "id": "S/135",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/aa/Smartharuler1.png/revision/latest?cb=20161017025252",
+        "class": "Ruler"
     },
     {
         "link": "/wiki/Illyasviel_von_Einzbern",
         "name": "Illyasviel von Einzbern",
         "stars": 5,
-        "servantID": "S/136",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/a8/Illya_stage1.png/revision/latest?cb=20171205180510"
+        "id": "S/136",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/a8/Illya_stage1.png/revision/latest?cb=20171205180510",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Chloe_von_Einzbern",
         "name": "Chloe von Einzbern",
         "stars": 4,
-        "servantID": "S/137",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/41/Kurostage1-3.png/revision/latest?cb=20180227180531"
+        "id": "S/137",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/41/Kurostage1-3.png/revision/latest?cb=20180227180531",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Elizabeth_B%C3%A1thory_(Brave)",
         "name": "Elizabeth Báthory (Brave)",
         "stars": 4,
-        "servantID": "S/138",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7a/EliBraveStage1-3.png/revision/latest?cb=20180227180214"
+        "id": "S/138",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7a/EliBraveStage1-3.png/revision/latest?cb=20180227180214",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Cleopatra",
         "name": "Cleopatra",
         "stars": 5,
-        "servantID": "S/139",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b5/CleopatraStage1.png/revision/latest?cb=20171206160028"
+        "id": "S/139",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b5/CleopatraStage1.png/revision/latest?cb=20171206160028",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Vlad_III_(EXTRA)",
         "name": "Vlad III (EXTRA)",
         "stars": 4,
-        "servantID": "S/140",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0c/VladIIIExtraStage1.png/revision/latest?cb=20180227174842"
+        "id": "S/140",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0c/VladIIIExtraStage1.png/revision/latest?cb=20180227174842",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Jeanne_d%27Arc_(Alter)_(Santa_Lily)",
         "name": "Jeanne d'Arc (Alter) (Santa Lily)",
         "stars": 4,
-        "servantID": "S/141",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/56/JeanneAlterSanta1-3.png/revision/latest?cb=20171206154122"
+        "id": "S/141",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/56/JeanneAlterSanta1-3.png/revision/latest?cb=20171206154122",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Ishtar",
         "name": "Ishtar",
         "stars": 5,
-        "servantID": "S/142",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b8/Ishtar_1stage.png/revision/latest?cb=20180227180333"
+        "id": "S/142",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b8/Ishtar_1stage.png/revision/latest?cb=20180227180333",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Enkidu",
         "name": "Enkidu",
         "stars": 5,
-        "servantID": "S/143",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cb/Enkidu1.png/revision/latest?cb=20171206154313"
+        "id": "S/143",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cb/Enkidu1.png/revision/latest?cb=20171206154313",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Quetzalcoatl",
         "name": "Quetzalcoatl",
         "stars": 5,
-        "servantID": "S/144",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d9/Quetz01.png/revision/latest?cb=20171206155214"
+        "id": "S/144",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d9/Quetz01.png/revision/latest?cb=20171206155214",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Gilgamesh_(Caster)",
         "name": "Gilgamesh (Caster)",
         "stars": 4,
-        "servantID": "S/145",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/6c/Gilcaster1.png/revision/latest?cb=20180228115129"
+        "id": "S/145",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/6c/Gilcaster1.png/revision/latest?cb=20180228115129",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Medusa_(Lancer)",
         "name": "Medusa (Lancer)",
         "stars": 4,
-        "servantID": "S/146",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/c4/Medusalancer1.png/revision/latest?cb=20171206154538"
+        "id": "S/146",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/c4/Medusalancer1.png/revision/latest?cb=20171206154538",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Gorgon",
         "name": "Gorgon",
         "stars": 4,
-        "servantID": "S/147",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/Gorgon1.png/revision/latest?cb=20171206160919"
+        "id": "S/147",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/Gorgon1.png/revision/latest?cb=20171206160919",
+        "class": "Avenger"
     },
     {
         "link": "/wiki/Jaguar_Man",
         "name": "Jaguar Man",
         "stars": 3,
-        "servantID": "S/148",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f4/Jaguarman1.png/revision/latest?cb=20171206154750"
+        "id": "S/148",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f4/Jaguarman1.png/revision/latest?cb=20171206154750",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Tiamat",
         "name": "Tiamat",
         "stars": 5,
-        "servantID": "S/149",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/85/Tiamat1.png/revision/latest?cb=20180407150602"
+        "id": "S/149",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/85/Tiamat1.png/revision/latest?cb=20180407150602",
+        "class": "Beast II"
     },
     {
         "link": "/wiki/Merlin",
         "name": "Merlin",
         "stars": 5,
-        "servantID": "S/150",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/fd/Merlin01.png/revision/latest?cb=20171205180229"
+        "id": "S/150",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/fd/Merlin01.png/revision/latest?cb=20171205180229",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Goetia",
         "name": "Goetia",
         "stars": 5,
-        "servantID": "S/151",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e4/GoetiaBeast.png/revision/latest?cb=20180407150526"
+        "id": "S/151",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/e4/GoetiaBeast.png/revision/latest?cb=20180407150526",
+        "class": "Beast I"
     },
     {
         "link": "/wiki/Solomon_(True)",
         "name": "Solomon",
         "stars": 5,
-        "servantID": "S/152",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/1d/Solomon02.png/revision/latest?cb=20180227175040"
+        "id": "S/152",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/1d/Solomon02.png/revision/latest?cb=20180227175040",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Miyamoto_Musashi",
         "name": "Miyamoto Musashi",
         "stars": 5,
-        "servantID": "S/153",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d7/MusashiStage01.png/revision/latest?cb=20171206153058"
+        "id": "S/153",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d7/MusashiStage01.png/revision/latest?cb=20171206153058",
+        "class": "Saber"
     },
     {
         "link": "/wiki/%22The_Old_Man_of_the_Mountain%22",
         "name": "\"The Old Man of the Mountain\"",
         "stars": 5,
-        "servantID": "S/154",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/33/KingHassan01.png/revision/latest?cb=20180228115330"
+        "id": "S/154",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/33/KingHassan01.png/revision/latest?cb=20180228115330",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Mysterious_Heroine_X_(Alter)",
         "name": "Mysterious Heroine X (Alter)",
         "stars": 5,
-        "servantID": "S/155",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/ca/MHXAlter1.png/revision/latest?cb=20171205180031"
+        "id": "S/155",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/ca/MHXAlter1.png/revision/latest?cb=20171205180031",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/James_Moriarty",
         "name": "James Moriarty",
         "stars": 5,
-        "servantID": "S/156",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cd/ArcherMoriartyStage1.png/revision/latest?cb=20171206153632"
+        "id": "S/156",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cd/ArcherMoriartyStage1.png/revision/latest?cb=20171206153632",
+        "class": "Archer"
     },
     {
         "link": "/wiki/EMIYA_(Alter)",
         "name": "EMIYA (Alter)",
         "stars": 4,
-        "servantID": "S/157",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/94/ArcherEMIYAAltStage1.png/revision/latest?cb=20171206153840"
+        "id": "S/157",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/94/ArcherEMIYAAltStage1.png/revision/latest?cb=20171206153840",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Hessian_Lobo",
         "name": "Hessian Lobo",
         "stars": 4,
-        "servantID": "S/158",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2f/AvengerLoboStage1.png/revision/latest?cb=20171206161026"
+        "id": "S/158",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2f/AvengerLoboStage1.png/revision/latest?cb=20171206161026",
+        "class": "Avenger"
     },
     {
         "link": "/wiki/Yan_Qing",
         "name": "Yan Qing",
         "stars": 4,
-        "servantID": "S/159",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/93/AssassinQuingStage1.png/revision/latest?cb=20171206160252"
+        "id": "S/159",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/93/AssassinQuingStage1.png/revision/latest?cb=20171206160252",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Arthur_Pendragon_(Prototype)",
         "name": "Arthur Pendragon (Prototype)",
         "stars": 5,
-        "servantID": "S/160",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/Arthur1.png/revision/latest?cb=20171206153236"
+        "id": "S/160",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2b/Arthur1.png/revision/latest?cb=20171206153236",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Hijikata_Toshiz%C5%8D",
         "name": "Hijikata Toshizō",
         "stars": 5,
-        "servantID": "S/161",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8a/BerserkerHijakataStage1.png/revision/latest?cb=20171206160558"
+        "id": "S/161",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8a/BerserkerHijakataStage1.png/revision/latest?cb=20171206160558",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Chacha",
         "name": "Chacha",
         "stars": 4,
-        "servantID": "S/162",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/96/BerserkerChachaStage1.png/revision/latest?cb=20180227175354"
+        "id": "S/162",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/96/BerserkerChachaStage1.png/revision/latest?cb=20180227175354",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Meltlilith",
         "name": "Meltlilith",
         "stars": 5,
-        "servantID": "S/163",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9d/Meltlilithfirstascension.png/revision/latest?cb=20180227175605"
+        "id": "S/163",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9d/Meltlilithfirstascension.png/revision/latest?cb=20180227175605",
+        "class": "Alterego"
     },
     {
         "link": "/wiki/Passionlip",
         "name": "Passionlip",
         "stars": 4,
-        "servantID": "S/164",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5d/Passionlip1.png/revision/latest?cb=20180227175800"
+        "id": "S/164",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/5d/Passionlip1.png/revision/latest?cb=20180227175800",
+        "class": "Alterego"
     },
     {
         "link": "/wiki/Suzuka_Gozen",
         "name": "Suzuka Gozen",
         "stars": 4,
-        "servantID": "S/165",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/48/SuzukaGozen1.png/revision/latest?cb=20180227180056"
+        "id": "S/165",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/48/SuzukaGozen1.png/revision/latest?cb=20180227180056",
+        "class": "Saber"
     },
     {
         "link": "/wiki/B_B",
         "name": "B B",
         "stars": 4,
-        "servantID": "S/166",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/ce/BBstage01.png/revision/latest?cb=20180227180002"
+        "id": "S/166",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/ce/BBstage01.png/revision/latest?cb=20180227180002",
+        "class": "Moon Cancer"
     },
     {
         "link": "/wiki/Sessh%C5%8Din_Kiara",
         "name": "Sesshōin Kiara",
         "stars": 5,
-        "servantID": "S/167",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/29/Kiarastage01.png/revision/latest?cb=20171206161500"
+        "id": "S/167",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/29/Kiarastage01.png/revision/latest?cb=20171206161500",
+        "class": "Alterego"
     },
     {
         "link": "/wiki/Beast_III/R",
         "name": "Beast III/R",
         "stars": 5,
-        "servantID": "S/168",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/63/Beast3Rart.png/revision/latest?cb=20171206161411"
+        "id": "S/168",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/63/Beast3Rart.png/revision/latest?cb=20171206161411",
+        "class": "Beast III"
     },
     {
         "link": "/wiki/Scheherazade",
         "name": "Scheherazade",
         "stars": 5,
-        "servantID": "S/169",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d7/ScheherazadeStage1.png/revision/latest?cb=20171205175238"
+        "id": "S/169",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d7/ScheherazadeStage1.png/revision/latest?cb=20171205175238",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Wu_Zetian",
         "name": "Wu Zetian",
         "stars": 4,
-        "servantID": "S/170",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/6a/WuZetianStage1.png/revision/latest?cb=20180228120108"
+        "id": "S/170",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/6/6a/WuZetianStage1.png/revision/latest?cb=20180228120108",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Penthesilea",
         "name": "Penthesilea",
         "stars": 4,
-        "servantID": "S/171",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/BersekerED1.png/revision/latest?cb=20180228115630"
+        "id": "S/171",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/BersekerED1.png/revision/latest?cb=20180228115630",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Christopher_Columbus",
         "name": "Christopher Columbus",
         "stars": 3,
-        "servantID": "S/172",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/39/RiderofResistanceStage1.png/revision/latest?cb=20171205174541"
+        "id": "S/172",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/39/RiderofResistanceStage1.png/revision/latest?cb=20171205174541",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Sherlock_Holmes",
         "name": "Sherlock Holmes",
         "stars": 5,
-        "servantID": "S/173",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b1/Holmes1.png/revision/latest?cb=20180228115820"
+        "id": "S/173",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/b1/Holmes1.png/revision/latest?cb=20180228115820",
+        "class": "Ruler"
     },
     {
         "link": "/wiki/Paul_Bunyan",
         "name": "Paul Bunyan",
         "stars": 1,
-        "servantID": "S/174",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/20/PaulBunyan1.png/revision/latest?cb=20170802140354"
+        "id": "S/174",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/20/PaulBunyan1.png/revision/latest?cb=20170802140354",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Nero_Claudius_(Caster)",
         "name": "Nero Claudius (Caster)",
         "stars": 5,
-        "servantID": "S/175",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Nerocaster1.png/revision/latest?cb=20180228120839"
+        "id": "S/175",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d2/Nerocaster1.png/revision/latest?cb=20180228120839",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Frankenstein_(Saber)",
         "name": "Frankenstein (Saber)",
         "stars": 4,
-        "servantID": "S/176",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/be/FranSaber1.png/revision/latest?cb=20180407083807"
+        "id": "S/176",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/be/FranSaber1.png/revision/latest?cb=20180407083807",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Nitocris_(Assassin)",
         "name": "Nitocris (Assassin)",
         "stars": 4,
-        "servantID": "S/177",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/25/NitoAsn1.png/revision/latest?cb=20180228120507"
+        "id": "S/177",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/25/NitoAsn1.png/revision/latest?cb=20180228120507",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Oda_Nobunaga_(Berserker)",
         "name": "Oda Nobunaga (Berserker)",
         "stars": 4,
-        "servantID": "S/178",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/20/OdaBerserker1.png/revision/latest?cb=20180228120653"
+        "id": "S/178",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/20/OdaBerserker1.png/revision/latest?cb=20180228120653",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Artoria_Pendragon_(Rider_Alter)",
         "name": "Artoria Pendragon (Rider Alter)",
         "stars": 5,
-        "servantID": "S/179",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/96/SummerAlter_Stage_1.png/revision/latest?cb=20170817110441"
+        "id": "S/179",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/96/SummerAlter_Stage_1.png/revision/latest?cb=20170817110441",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Helena_Blavatsky_(Archer)",
         "name": "Helena Blavatsky (Archer)",
         "stars": 4,
-        "servantID": "S/180",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/fa/HelenaSummer_Stage_1.png/revision/latest?cb=20170817111008"
+        "id": "S/180",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/fa/HelenaSummer_Stage_1.png/revision/latest?cb=20170817111008",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Minamoto_no_Raik%C5%8D_(Lancer)",
         "name": "Minamoto no Raikō (Lancer)",
         "stars": 4,
-        "servantID": "S/181",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ee/Raikou_stage_1.png/revision/latest?cb=20180227180710"
+        "id": "S/181",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ee/Raikou_stage_1.png/revision/latest?cb=20180227180710",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Ishtar_(Rider)",
         "name": "Ishtar (Rider)",
         "stars": 4,
-        "servantID": "S/182",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/IshtarRiderStage1-3.png/revision/latest?cb=20180227180950"
+        "id": "S/182",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f7/IshtarRiderStage1-3.png/revision/latest?cb=20180227180950",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Parvati",
         "name": "Parvati",
         "stars": 4,
-        "servantID": "S/183",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/47/Portrait_Servant_183_1.png/revision/latest?cb=20171008140941"
+        "id": "S/183",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/47/Portrait_Servant_183_1.png/revision/latest?cb=20171008140941",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Tomoe_Gozen",
         "name": "Tomoe Gozen",
         "stars": 4,
-        "servantID": "S/184",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/59/Portrait_Servant_184_1.png/revision/latest?cb=20180216040423"
+        "id": "S/184",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/59/Portrait_Servant_184_1.png/revision/latest?cb=20180216040423",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Mochizuki_Chiyome",
         "name": "Mochizuki Chiyome",
         "stars": 4,
-        "servantID": "S/185",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/53/Portrait_Servant_185_1.png/revision/latest?cb=20180701163818"
+        "id": "S/185",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/53/Portrait_Servant_185_1.png/revision/latest?cb=20180701163818",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/H%C5%8Dz%C5%8Din_Inshun",
         "name": "Hōzōin Inshun",
         "stars": 3,
-        "servantID": "S/186",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/17/Portrait_Servant_186_1.png/revision/latest?cb=20180701163225"
+        "id": "S/186",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/17/Portrait_Servant_186_1.png/revision/latest?cb=20180701163225",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Yagy%C5%AB_Munenori",
         "name": "Yagyū Munenori",
         "stars": 4,
-        "servantID": "S/187",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9b/Portrait_Servant_187_1.png/revision/latest?cb=20180701163559"
+        "id": "S/187",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9b/Portrait_Servant_187_1.png/revision/latest?cb=20180701163559",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Kat%C5%8D_Danz%C5%8D",
         "name": "Katō Danzō",
         "stars": 4,
-        "servantID": "S/188",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0a/Portrait_Servant_188_1.png/revision/latest?cb=20180701163945"
+        "id": "S/188",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0a/Portrait_Servant_188_1.png/revision/latest?cb=20180701163945",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Osakabehime",
         "name": "Osakabehime",
         "stars": 5,
-        "servantID": "S/189",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2a/Portrait_Servant_189_1.png/revision/latest?cb=20171025145534"
+        "id": "S/189",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/2a/Portrait_Servant_189_1.png/revision/latest?cb=20171025145534",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Mecha_Eli-chan",
         "name": "Mecha Eli-chan",
         "stars": 4,
-        "servantID": "S/190",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/Portrait_Servant_190_1.png/revision/latest?cb=20171025153323"
+        "id": "S/190",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0d/Portrait_Servant_190_1.png/revision/latest?cb=20171025153323",
+        "class": "Alterego"
     },
     {
         "link": "/wiki/Mecha_Eli-chan_Mk.II",
         "name": "Mecha Eli-chan Mk.II",
         "stars": 4,
-        "servantID": "S/191",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cb/Portrait_Servant_191_1.png/revision/latest?cb=20171025153954"
+        "id": "S/191",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/cb/Portrait_Servant_191_1.png/revision/latest?cb=20171025153954",
+        "class": "Alterego"
     },
     {
         "link": "/wiki/Circe",
         "name": "Circe",
         "stars": 4,
-        "servantID": "S/192",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7b/Portrait_Servant_192_1.png/revision/latest?cb=20171129142620"
+        "id": "S/192",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7b/Portrait_Servant_192_1.png/revision/latest?cb=20171129142620",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Nezha",
         "name": "Nezha",
         "stars": 4,
-        "servantID": "S/193",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/25/Portrait_Servant_193_1.png/revision/latest?cb=20171129142413"
+        "id": "S/193",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/25/Portrait_Servant_193_1.png/revision/latest?cb=20171129142413",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Queen_of_Sheba",
         "name": "Queen of Sheba",
         "stars": 4,
-        "servantID": "S/194",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/c2/Portrait_Servant_194_1.png/revision/latest?cb=20171202170301"
+        "id": "S/194",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/c2/Portrait_Servant_194_1.png/revision/latest?cb=20171202170301",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Abigail_Williams",
         "name": "Abigail Williams",
         "stars": 5,
-        "servantID": "S/195",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d7/Portrait_Servant_195_1.png/revision/latest?cb=20171207114027"
+        "id": "S/195",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/d/d7/Portrait_Servant_195_1.png/revision/latest?cb=20171207114027",
+        "class": "Foreigner"
     },
     {
         "link": "/wiki/Ereshkigal",
         "name": "Ereshkigal",
         "stars": 5,
-        "servantID": "S/196",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/Portrait_Servant_196_1.png/revision/latest?cb=20171215134259"
+        "id": "S/196",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/54/Portrait_Servant_196_1.png/revision/latest?cb=20171215134259",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Attila_the_San(ta)",
         "name": "Attila the San(ta)",
         "stars": 4,
-        "servantID": "S/197",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/ba/Portrait_Servant_197.png/revision/latest?cb=20171215122116"
+        "id": "S/197",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/b/ba/Portrait_Servant_197.png/revision/latest?cb=20171215122116",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Katsushika_Hokusai",
         "name": "Katsushika Hokusai",
         "stars": 5,
-        "servantID": "S/198",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/1f/Portrait_Servant_198_1.png/revision/latest?cb=20171231190645"
+        "id": "S/198",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/1f/Portrait_Servant_198_1.png/revision/latest?cb=20171231190645",
+        "class": "Foreigner"
     },
     {
         "link": "/wiki/Semiramis",
         "name": "Semiramis",
         "stars": 5,
-        "servantID": "S/199",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/c5/Portrait_Servant_199_1.png/revision/latest?cb=20180131114946"
+        "id": "S/199",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/c5/Portrait_Servant_199_1.png/revision/latest?cb=20180131114946",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Asagami_Fujino",
         "name": "Asagami Fujino",
         "stars": 4,
-        "servantID": "S/200",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/78/AsagamiFujinoStage1.png/revision/latest?cb=20180218103427"
+        "id": "S/200",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/78/AsagamiFujinoStage1.png/revision/latest?cb=20180218103427",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Anastasia_Nikolaevna_Romanova",
         "name": "Anastasia Nikolaevna Romanova",
         "stars": 5,
-        "servantID": "S/201",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7b/Anyaportrait1.png/revision/latest?cb=20180404130328"
+        "id": "S/201",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/7b/Anyaportrait1.png/revision/latest?cb=20180404130328",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Atalanta_(Alter)",
         "name": "Atalanta (Alter)",
         "stars": 4,
-        "servantID": "S/202",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/42/AtalantaAlter1.png/revision/latest?cb=20180624145035"
+        "id": "S/202",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/42/AtalantaAlter1.png/revision/latest?cb=20180624145035",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/Avicebron",
         "name": "Avicebron",
         "stars": 3,
-        "servantID": "S/203",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/56/AvicebronStage1.png/revision/latest?cb=20180624144252"
+        "id": "S/203",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/56/AvicebronStage1.png/revision/latest?cb=20180624144252",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Antonio_Salieri",
         "name": "Antonio Salieri",
         "stars": 3,
-        "servantID": "S/204",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/43/Salieri_1.png/revision/latest?cb=20180624144811"
+        "id": "S/204",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/43/Salieri_1.png/revision/latest?cb=20180624144811",
+        "class": "Avenger"
     },
     {
         "link": "/wiki/Ivan_the_Terrible",
         "name": "Ivan the Terrible",
         "stars": 5,
-        "servantID": "S/205",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9f/Ivanport1.png/revision/latest?cb=20180411104145"
+        "id": "S/205",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9f/Ivanport1.png/revision/latest?cb=20180411104145",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Achilles",
         "name": "Achilles",
         "stars": 5,
-        "servantID": "S/206",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ef/Acilport1.png/revision/latest?cb=20180429125659"
+        "id": "S/206",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/ef/Acilport1.png/revision/latest?cb=20180429125659",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Chiron",
         "name": "Chiron",
         "stars": 4,
-        "servantID": "S/207",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/47/Chironport1.png/revision/latest?cb=20180429131947"
+        "id": "S/207",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/4/47/Chironport1.png/revision/latest?cb=20180429131947",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Sieg",
         "name": "Sieg",
         "stars": 4,
-        "servantID": "S/208",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/a3/Siegport_a.png/revision/latest?cb=20180429130612"
+        "id": "S/208",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/a3/Siegport_a.png/revision/latest?cb=20180429130612",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Okita_S%C5%8Dji_(Alter)",
         "name": "Okita Sōji (Alter)",
         "stars": 5,
-        "servantID": "S/209",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/21/OkitaSoujiAlterStage01.png/revision/latest?cb=20180617153354"
+        "id": "S/209",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/2/21/OkitaSoujiAlterStage01.png/revision/latest?cb=20180617153354",
+        "class": "Alterego"
     },
     {
         "link": "/wiki/Okada_Iz%C5%8D",
         "name": "Okada Izō",
         "stars": 3,
-        "servantID": "S/210",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/ac/Okada_portrait_1.png/revision/latest?cb=20180613175748"
+        "id": "S/210",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/a/ac/Okada_portrait_1.png/revision/latest?cb=20180613175748",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Sakamoto_Ry%C5%8Dma",
         "name": "Sakamoto Ryōma",
         "stars": 4,
-        "servantID": "S/211",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/97/Ryoma_1.png/revision/latest?cb=20180617153050"
+        "id": "S/211",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/97/Ryoma_1.png/revision/latest?cb=20180617153050",
+        "class": "Rider"
     },
     {
         "link": "/wiki/Napoleon",
         "name": "Napoleon",
         "stars": 5,
-        "servantID": "S/212",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/86/NapoleonStage01.png/revision/latest?cb=20180713115737"
+        "id": "S/212",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/86/NapoleonStage01.png/revision/latest?cb=20180713115737",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Sigurd",
         "name": "Sigurd",
         "stars": 5,
-        "servantID": "S/213",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8e/SigurdStage01.png/revision/latest?cb=20180718153024"
+        "id": "S/213",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/8/8e/SigurdStage01.png/revision/latest?cb=20180718153024",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Valkyrie",
         "name": "Valkyrie",
         "stars": 4,
-        "servantID": "S/214",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/ca/ValkyrieStage01.png/revision/latest?cb=20180718152057"
+        "id": "S/214",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/c/ca/ValkyrieStage01.png/revision/latest?cb=20180718152057",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Sc%C3%A1thach-Ska%C3%B0i",
         "name": "Scáthach-Skaði",
         "stars": 5,
-        "servantID": "S/215",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f6/ScathachSkadi1.png/revision/latest?cb=20180729075400"
+        "id": "S/215",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/f6/ScathachSkadi1.png/revision/latest?cb=20180729075400",
+        "class": "Caster"
     },
     {
         "link": "/wiki/Jeanne_d%27Arc_(Archer)",
         "name": "Jeanne d'Arc (Archer)",
         "stars": 5,
-        "servantID": "S/216",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/73/Archer_Jeanne_1.png/revision/latest?cb=20180809112301"
+        "id": "S/216",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/73/Archer_Jeanne_1.png/revision/latest?cb=20180809112301",
+        "class": "Archer"
     },
     {
         "link": "/wiki/Ibaraki_D%C5%8Dji_(Lancer)",
         "name": "Ibaraki Dōji (Lancer)",
         "stars": 4,
-        "servantID": "S/217",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/ff/BananaOniLancer1.png/revision/latest?cb=20180809100211"
+        "id": "S/217",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/f/ff/BananaOniLancer1.png/revision/latest?cb=20180809100211",
+        "class": "Lancer"
     },
     {
         "link": "/wiki/Ushiwakamaru_(Assassin)",
         "name": "Ushiwakamaru (Assassin)",
         "stars": 4,
-        "servantID": "S/218",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0e/AssassinUshi1.png/revision/latest?cb=20180809103605"
+        "id": "S/218",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/0e/AssassinUshi1.png/revision/latest?cb=20180809103605",
+        "class": "Assassin"
     },
     {
         "link": "/wiki/Jeanne_d%27Arc_(Berserker_Alter)",
         "name": "Jeanne d'Arc (Berserker Alter)",
         "stars": 4,
-        "servantID": "S/219",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/77/BerserkerJalter1-3.png/revision/latest?cb=20180809113039"
+        "id": "S/219",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/7/77/BerserkerJalter1-3.png/revision/latest?cb=20180809113039",
+        "class": "Berserker"
     },
     {
         "link": "/wiki/B_B_(Summer)",
         "name": "B B (Summer)",
         "stars": 5,
-        "servantID": "S/220",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/51/BBSummer1.png/revision/latest?cb=20180816151158"
+        "id": "S/220",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/5/51/BBSummer1.png/revision/latest?cb=20180816151158",
+        "class": "Moon Cancer"
     },
     {
         "link": "/wiki/Medb_(Saber)",
         "name": "Medb (Saber)",
         "stars": 4,
-        "servantID": "S/221",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/eb/MedbSaber1.png/revision/latest?cb=20180816151945"
+        "id": "S/221",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/e/eb/MedbSaber1.png/revision/latest?cb=20180816151945",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Mysterious_Heroine_XX",
         "name": "Mysterious Heroine XX",
         "stars": 4,
-        "servantID": "S/222",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/1a/MHXX1.png/revision/latest?cb=20180816151612"
+        "id": "S/222",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/1/1a/MHXX1.png/revision/latest?cb=20180816151612",
+        "class": "Foreigner"
     },
     {
         "link": "/wiki/Diarmuid_Ua_Duibhne_(Saber)",
         "name": "Diarmuid Ua Duibhne (Saber)",
         "stars": 4,
-        "servantID": "S/223",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/34/1st_Saber_Diarmud.png/revision/latest?cb=20180905102600"
+        "id": "S/223",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/3/34/1st_Saber_Diarmud.png/revision/latest?cb=20180905102600",
+        "class": "Saber"
     },
     {
         "link": "/wiki/Sitonai",
         "name": "Sitonai",
         "stars": 5,
-        "servantID": "S/224",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9b/Sitonai_1.png/revision/latest?cb=20181024132837"
+        "id": "S/224",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/9/9b/Sitonai_1.png/revision/latest?cb=20181024132837",
+        "class": "Alterego"
     },
     {
         "link": "/wiki/Shuten_D%C5%8Dji_(Caster)",
         "name": "Shuten Dōji (Caster)",
         "stars": 4,
-        "servantID": "S/225",
-        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/01/Shuten_Caster.png/revision/latest?cb=20181024161623"
+        "id": "S/225",
+        "image": "https://vignette.wikia.nocookie.net/fategrandorder/images/0/01/Shuten_Caster.png/revision/latest?cb=20181024161623",
+        "class": "Caster"
     }
 ]
