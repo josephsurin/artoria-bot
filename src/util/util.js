@@ -8,7 +8,12 @@ function randElement(arr) {
 	return arr[Math.floor(Math.random() * arr.length)]
 }
 
+function rarityToStars(rarity) {
+	return ''.padStart(rarity, '★')
+}
+
 module.exports = {
 	getImgUrl,
-	randElement
+	randElement,
+	rarityToStars
 }
